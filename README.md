@@ -13,20 +13,22 @@ A curated database linking enzyme commission (EC) numbers to specific carbohydra
 - [Contact](#contact)
 ## Background
 
-This database was developed to support research in microbial carbohydrate metabolism by mapping carbohydrate-active enzymes to their respective substrates, based on EC numbers. Unlike broader databases, this dataset is specifically curated for microbial enzymes and categorizes them by carbohydrate class, polysaccharide type, and known substrates.
+This database was developed to support research in microbial carbohydrate metabolism by mapping carbohydrate-active enzymes to their respective substrates, based on EC numbers. This dataset is specifically curated for microbial enzymes and categorizes them by carbohydrate class, polysaccharide type, and known substrates.
 
 The database was constructed using curated information from:
 - [MetaCyc](https://metacyc.org/)
 - [BRENDA](https://www.brenda-enzymes.org/)
 ## File Structure
 
-The main file is `carbohydrate_enzyme_reference.xlsx`, which contains the following sheets:
+The file contains the following parent classes:
 
 - **Parent**: Broad classification of enzymes by nutrient class
 - **Parent2**: Adds polysaccharide specificity (e.g., cellulose, starch)
 - **Parent3**: Includes sub-polysaccharide context (e.g., amorphous cellulose)
 - **Parent4**: Most specific classification, with known substrates and additional notes
 
+A repeat column is included to denote if a subclass is repeated due to having multiple substrates that fall within the same parent class.
+  
 ## Data Sources 
 
 Data was manually curated from:
