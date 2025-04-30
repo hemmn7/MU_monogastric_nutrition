@@ -45,7 +45,7 @@ Substrate categories include dietary fiber (soluble/insoluble), starch, β-gluca
 ## How to Use
 
 This database is intended for use in:
-- Annotating metagenomes or MAGs
+- Annotating predicted 16s functionality 
 - Building models of microbial carbohydrate metabolism
 - Linking EC numbers to dietary carbohydrate degradation potential
 
