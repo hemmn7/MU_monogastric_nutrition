@@ -55,7 +55,7 @@ Use Excel, Python (e.g., `pandas.read_excel()`), or R (`readxl::read_excel()`) t
 
 If you use this database, please cite:
 
-Miller, H. E. and A. L. Petry (2025). *Microbial Carbohydrase EC Number Database* [Data set]. Zenodo. DOI: 10.5281/zenodo.15343851
+Miller, H. E. and A. L. Petry (2025). *Microbial Carbohydrase EC Database* [Data set]. Zenodo. DOI: 10.5281/zenodo.15343851
 ## Contact
 
 For questions or contributions, contact:
