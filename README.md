@@ -49,7 +49,7 @@ This database is intended for use in:
 - Building models of microbial carbohydrate metabolism
 - Linking EC numbers to dietary carbohydrate degradation potential
 
-Use Excel, Python (e.g., `pandas.read_excel()`), or R (`readxl::read_excel()`) to parse the data.
+Use Excel, Python, or R to parse the data.
 
 ## Citation
 
